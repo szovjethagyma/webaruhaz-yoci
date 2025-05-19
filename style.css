@@ -12,3 +12,6 @@ a {
 a:hover {
     text-decoration: underline;
 }
+.intro {
+    width: 555px;
+}
